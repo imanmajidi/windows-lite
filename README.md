@@ -1,0 +1,1 @@
+The goal is to create a fast and lightweight Windows system for office use, capable of joining domains, working with Office applications, enabling perimeter and file sharing, and supporting web-based software.
